@@ -25,6 +25,9 @@ The project scope for Adventure Works Cycle encompasses several key objectives a
 5) Operational Efficiency: Streamline internal processes and optimize resource allocation to improve operational efficiency and reduce costs. This may involve implementing new technology solutions, reevaluating supply chain logistics, and enhancing workforce productivity.
 6) Brand Awareness: Increase brand visibility and recognition through targeted marketing initiatives, public relations campaigns, and participation in industry events and sponsorships.
 
+# DASHBOARD
+![image](https://github.com/Harshal13012002/Power-Bi-Projects/assets/161576970/38116e8e-91d2-465c-9354-2e069c7b8897)
+
 # SUGGESTIONS
 - This project Adventure Works Cycle is multifaceted, encompassing product expansion, market penetration, sustainability initiatives, customer engagement, operational efficiency, and brand awareness.
 - To succeed, it's crucial to carefully prioritize and allocate resources effectively.
@@ -34,6 +37,7 @@ The project scope for Adventure Works Cycle encompasses several key objectives a
 - Streamline internal operations to improve efficiency and reduce costs, freeing up resources for strategic investments.
 - Finally, prioritize brand-building efforts through targeted marketing campaigns and partnerships with like-minded organizations.
 - By executing these strategies with diligence and agility, Adventure Works Cycle can position itself as a leader in the cycling industry while fostering long-term sustainability and customer loyalty.
+
 
 
 
